@@ -156,7 +156,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <!--> Veja o arquivo  [package.json](https://github.com/lffernandes/../package.json)
 
 
-#### ** FRONT END **  [Angular](https://www.typescriptlang.org/)) + ([React](https://reactjs.org/) + [HTML] + [CSS] + [Typescript] + [Typescript]
+#### ** FRONT END **  [Angular](https://www.typescriptlang.org/)) + [React](https://reactjs.org/) + [HTML] + [CSS] + [Typescript] + [Typescript]
 
 
 -    **[angular/animations] "~11.0.1"**
