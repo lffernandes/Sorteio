@@ -1,0 +1,29 @@
+<div class="container">
+    <div class="inner-container">
+        <div class="banner"> 
+            <app-sorteio-title-card></app-sorteio-title-card>
+        </div>
+        <div class="middlecontent"> 
+            <h1>Parabéns aos Ganhadores</h1>
+        </div>
+        <router-outlet></router-outlet>
+    
+        <div class="content"> 
+            <i class="fa fa-spinner fa-spin fa-2x" *ngIf="!sorteioidosos" ></i>
+            <h1>GANHADOR LISTA <u>IDOSO</u></h1>   
+            <app-sorteio-list *ngIf="sorteioidosos" [sorteioidosos]="sorteioidosos"></app-sorteio-list>
+        </div>
+
+        <div class="content"> 
+            <i class="fa fa-spinner fa-spin fa-2x" *ngIf="!sorteiopcds" ></i>
+            <h1>GANHADOR LISTA <u>PCD</u></h1>   
+            <app-sorteio-list *ngIf="sorteiopcds" [sorteiopcds]="sorteiopcds"></app-sorteio-list>
+        </div>
+
+        <div class="content"> 
+            <i class="fa fa-spinner fa-spin fa-2x" *ngIf="!sorteiogerais" ></i>
+            <h1>GANHADOR LISTA <u>GERAL</u></h1>
+            <app-sorteio-list *ngIf="sorteiogerais" [sorteiogerais]="sorteiogerais"></app-sorteio-list>
+        </div>
+    </div>
+</div>

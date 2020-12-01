@@ -1,0 +1,4 @@
+<div class="content"> 
+    <i class="fa fa-spinner fa-spin fa-2x" *ngIf="!participantes"></i>
+    <app-participante-list *ngIf="participantes" [participantes]="participantes"></app-participante-list>
+    </div>

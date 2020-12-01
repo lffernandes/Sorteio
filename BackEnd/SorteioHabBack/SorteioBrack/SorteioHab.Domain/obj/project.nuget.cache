@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OZXZiqMh3MYlHk/sc4MuvHONQ3ei4vs772ohUxzhXZ/fuyhbM41eB4UhOn6W1U1+pb+wZCxA9LkfR38Q7bCkiA==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\SorteioHab\\SorteioHabBack\\SorteioHab.Domain\\SorteioHab.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lzfrnds\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
+    "C:\\Users\\Lzfrnds\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lzfrnds\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

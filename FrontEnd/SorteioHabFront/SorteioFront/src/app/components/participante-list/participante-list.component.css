@@ -1,0 +1,40 @@
+.participantes {
+  list-style: none;
+  font-size: 1.5em;
+  margin-left: 25px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.participantes tr {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.participantes li:hover {
+  border-bottom: 3px solid #fa5b70;
+}
+
+.participantes li a {
+  color: rgba(0, 0, 0, 0.6);
+  transition-duration: 0.5s;
+  transition: color 0.5s;
+  text-align: center;
+}
+
+table {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  width: 95%;
+  margin-left: 25px;
+  margin-right: 5px;
+}
+
+th,
+td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 5px;
+  text-align: center;
+}

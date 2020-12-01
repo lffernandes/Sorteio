@@ -1,0 +1,27 @@
+<!-- <ul class="participantes" *ngIf="participantes">
+    <li *ngFor="let participante of participantes">
+        <a> 
+            {{participante.cpf}} -
+            {{participante.nome}} 
+            
+        </a>      
+    </li>
+</ul> -->
+
+
+<table mdbTable>
+    <thead>
+      <tr>
+        <th  scope="col">CPF </th>
+        <th  scope="col">NOME </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr mdbTableCol *ngFor="let participante of participantes">
+        <!-- <th scope="row">{{el.id}}</th> -->
+        <td>{{participante.cpf}}</td>
+        <td>{{participante.nome}}</td>
+
+      </tr>
+    </tbody>
+  </table>

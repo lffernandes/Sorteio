@@ -1,0 +1,17 @@
+<div class="container">
+    <div class="inner-container">
+        <div class="banner">
+            <app-title-card></app-title-card>
+        </div>
+        
+        <div class="middlecontent">
+           
+            <app-button [routerLink]= "'/sorteio'">
+                REALIZAR SORTEIO
+            </app-button>
+            <app-total-info *ngIf="participantesvalidos" [participantesvalidos]="participantesvalidos"></app-total-info>
+        </div>
+        <app-tabs></app-tabs> 
+        <router-outlet></router-outlet>
+    </div>
+</div>

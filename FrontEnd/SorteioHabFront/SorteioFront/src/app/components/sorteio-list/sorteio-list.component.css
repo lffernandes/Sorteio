@@ -1,0 +1,31 @@
+.sorteioidosos,
+.sorteiopcds,
+.sorteiogerais {
+  list-style: none;
+  font-size: 1.5em;
+  margin-left: 25px;
+  text-align: center;
+}
+
+.sorteioidosos li,
+.sorteiopcds li,
+.sorteiogerais li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+.sorteioidosos li:hover,
+.sorteiopcds li:hover,
+.sorteiogerais li:hover {
+  border-bottom: 3px solid #fa5b70;
+}
+
+.sorteioidosos li a,
+.sorteiopcds li a,
+.sorteiogerais li a {
+  color: rgba(0, 0, 0, 0.6);
+  transition-duration: 0.5s;
+  transition: color 0.5s;
+  text-align: center;
+}

@@ -1,0 +1,36 @@
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.deps.json
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csprojAssemblyReference.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.AssemblyInfoInputs.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.AssemblyInfo.cs
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csproj.CopyComplete
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.deps.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csprojAssemblyReference.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.AssemblyInfoInputs.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.AssemblyInfo.cs
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csproj.CopyComplete
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.deps.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\bin\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csprojAssemblyReference.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.AssemblyInfoInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.AssemblyInfo.cs
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.csproj.CopyComplete
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Infra\obj\Debug\netstandard2.0\SorteioHab.Domain.Infra.pdb

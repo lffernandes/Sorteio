@@ -1,0 +1,29 @@
+<ul class="sorteioidosos" *ngIf="sorteioidosos">
+    <li *ngFor="let idosos of sorteioidosos">
+        <a>
+            {{idosos.cpf}} -
+             {{idosos.nome}} 
+            
+           
+        </a>      
+    </li>
+</ul>
+<ul class="sorteiopcds" *ngIf="sorteiopcds">
+    <li *ngFor="let pcd of sorteiopcds">
+        <a> 
+            {{pcd.cpf}} -
+            {{pcd.nome}} 
+            
+          
+        </a>      
+    </li>
+</ul>
+<ul class="sorteiogerais" *ngIf="sorteiogerais">
+    <li *ngFor="let geral of sorteiogerais">
+        <a> 
+            {{geral.cpf}} - 
+            {{geral.nome}} 
+         
+        </a>      
+    </li>
+</ul>

@@ -1,0 +1,27 @@
+C:\repos\SorteioHab\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.deps.json
+C:\repos\SorteioHab\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.csprojAssemblyReference.cache
+C:\repos\SorteioHab\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.AssemblyInfoInputs.cache
+C:\repos\SorteioHab\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.AssemblyInfo.cs
+C:\repos\SorteioHab\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.deps.json
+C:\repos\SorteioHab _\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab _\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.csprojAssemblyReference.cache
+C:\repos\SorteioHab _\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.AssemblyInfoInputs.cache
+C:\repos\SorteioHab _\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.AssemblyInfo.cs
+C:\repos\SorteioHab _\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab _\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab _\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.deps.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\bin\Debug\netstandard2.0\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.csprojAssemblyReference.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.AssemblyInfoInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.AssemblyInfo.cs
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain\obj\Debug\netstandard2.0\SorteioHab.Domain.pdb

@@ -1,0 +1,9 @@
+.title-card {
+  height: 890 px;
+  color: rgb(66, 64, 64);
+  font-size: 0.80em;
+  line-height: 1em;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  justify-content: center;
+}

@@ -1,0 +1,124 @@
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.exe
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.deps.json
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.runtimeconfig.json
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.runtimeconfig.dev.json
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.pdb
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csprojAssemblyReference.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.AssemblyInfoInputs.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.AssemblyInfo.cs
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.RazorTargetAssemblyInfo.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csproj.CopyComplete
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\staticwebassets\SorteioHab.Domain.Api.StaticWebAssets.Manifest.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\staticwebassets\SorteioHab.Domain.Api.StaticWebAssets.xml
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.pdb
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.genruntimeconfig.cache
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repos\SorteioHab\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\SorteioHab.Domain.Api.styles.css
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.exe
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.deps.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.runtimeconfig.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.runtimeconfig.dev.json
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csprojAssemblyReference.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.AssemblyInfoInputs.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.AssemblyInfo.cs
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.RazorTargetAssemblyInfo.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csproj.CopyComplete
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\staticwebassets\SorteioHab.Domain.Api.StaticWebAssets.Manifest.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\staticwebassets\SorteioHab.Domain.Api.StaticWebAssets.xml
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.pdb
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.genruntimeconfig.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab _\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.exe
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.deps.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.runtimeconfig.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.runtimeconfig.dev.json
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Api.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Infra.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\bin\Debug\netcoreapp3.1\SorteioHab.Domain.Infra.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csprojAssemblyReference.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.AssemblyInfoInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.AssemblyInfo.cs
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csproj.CoreCompileInputs.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.RazorTargetAssemblyInfo.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.csproj.CopyComplete
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\staticwebassets\SorteioHab.Domain.Api.StaticWebAssets.Manifest.cache
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\staticwebassets\SorteioHab.Domain.Api.StaticWebAssets.xml
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.dll
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.pdb
+C:\repos\SorteioHab\SorteioHabBack\SorteioHab.Domain.Api\obj\Debug\netcoreapp3.1\SorteioHab.Domain.Api.genruntimeconfig.cache
