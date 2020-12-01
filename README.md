@@ -153,7 +153,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
     -   **[MSTest.TestAdapter] "2.1.0"**
     -   **[MSTest.TestFramework] "2.1.0"**    
 
-<!--> Veja o arquivo  [package.json](https://github.com/lffernandes/../package.json)
 
 
 #### ** FRONT END **  [Angular](https://www.typescriptlang.org/) + [React](https://reactjs.org/) + [HTML] + [CSS] + [Typescript] + [Typescript]
@@ -172,9 +171,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -    **[rxjs] "~6.6.0"**
 -    **[tslib] "^2.0.0"**
 -    **[zone.js] "~0.10.2"**
-
-
-<!--> Veja o arquivo  [package.json](https://github.com/lffernandes/../package.json)
 
 
 
